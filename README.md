@@ -11,6 +11,8 @@ Traditional deep learning models provide excellent accuracy but often require hi
 
 This repository provides an overview of the research methodology, system architecture, experimental results, and performance analysis.
 
+You can view the full IEEE thesis document using the link : [Open PDF](./IEEE_Paper.pdf)
+
 ---
 
 # Research Objectives

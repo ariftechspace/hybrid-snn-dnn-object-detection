@@ -11,7 +11,7 @@ Traditional deep learning models provide excellent accuracy but often require hi
 
 This repository provides an overview of the research methodology, system architecture, experimental results, and performance analysis.
 
-You can view the full IEEE thesis document using the link : [Open PDF](./IEEE_Paper.pdf)
+The full IEEE thesis document: [Open PDF](./IEEE_Paper.pdf)
 
 ---
 
@@ -131,19 +131,18 @@ The following figures summarize the experimental results.
 ---
 
 # Repository Structure
-
 ```text
-.
 ├── README.md
-├── images
-│   ├── architecture.png
-│   ├── detection_result_1.png
-│   ├── detection_result_2.png
-│   ├── map_curve.png
-│   ├── training_loss.png
-│   ├── precision_recall.png
-│   ├── confusion_matrix.png
-│   └── iou_distribution.png
+├── IEEE_Paper.pdf
+└── thesis_images
+    ├── architecture.jpg
+    ├── detection_result_1.png
+    ├── detection_result_2.png
+    ├── map_curve.png
+    ├── training_loss.png
+    ├── precision_recall.png
+    ├── confusion_matrix.png
+    └── iou_distribution.png
 ```
 
 ---
